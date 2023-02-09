@@ -1,2 +1,1 @@
-# alx-zero_day
-To tackle my projects 
+My first readme
